@@ -1,0 +1,177 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.header{ 
+    display: flex;
+    background-color: #000;
+    width: 1610px;
+    justify-content: space-around;
+    padding: 5px;
+    color: #fff;
+    position: fixed;
+}
+.menu1{
+    display: flex;
+    gap: 0 52px;
+    justify-content: center;
+    list-style: none;
+    padding-top: 33px;
+    margin-right: 390px;
+    font-size: 18px;
+    padding-left: 40px;
+}
+.menu1 li {
+    cursor: pointer;
+}
+.logo{
+    width: 90px;
+    height: 83px;  
+    margin-left: 250px;
+    margin-right: 20px;
+    padding-top: 8px;
+} 
+.giohang{
+    width: 90px;
+    height: 40px;  
+    margin-left: 100px;
+}
+.content{
+    margin-bottom: 5px;
+}
+.anh{
+    width: 100%;
+    margin-top: 76px;
+}
+.anh1{
+    width: 100%;
+}
+.anhmau{
+    margin-left: 44px;
+    width: 700px;
+    height: 350px;
+}
+.anhmau1{
+    margin-left: 44px;
+    width: 700px;
+    height: 350px;
+}
+.anhmau2{
+    margin-left: 44px;
+    width: 700px;
+    height: 350px;
+}
+.chu2{
+    position: absolute;
+    top: 144%;
+    left: 45%;
+    font-size: 48px;
+}
+.chu3{
+    position: absolute;
+    top: 150%;
+    left: 45%;
+    font-size: 70px;
+}
+.anh2{
+    width: 100%;
+}
+.dienthoai{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 60px;
+}
+.dienthoai1{
+    width: 340px;
+    height: 360px;
+}
+.ten{
+    padding-left: 93px;
+    padding-bottom: 10px;
+    font-size: 25px;
+}
+.ten:hover{
+    color: rgb(255, 0, 0);
+}
+.giatien{
+    padding-left: 93px;
+    font-size: 20px;
+    padding-top: 18px;
+}
+.giatien:hover{
+    color: rgb(255, 0, 0);
+}
+.maytinhbang{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+    width: 100%;
+}   
+.maytinhbang1{
+    width: 370px;
+}
+.laptop{
+    display: flex;
+    justify-content: space-around;
+    font-size: 25px;
+    padding-bottom: 50px;
+}
+.laptop1{
+    width: 340px;
+}
+.ten1{
+    position: absolute;
+    top: 707%;
+    left: 6%; 
+}
+.ten1:hover{
+    color: rgb(255, 0, 0);
+}
+.ten2{
+    position: absolute;
+    top: 707%;
+    left: 32%;
+}
+.ten2:hover{
+    color: rgb(255, 0, 0);
+}
+.ten3{
+    position: absolute;
+    top: 707%;
+    left: 55%;
+}
+.ten3:hover{
+    color: rgb(255, 0, 0);
+}
+.ten4{
+    position: absolute;
+    top: 707%;
+    left: 80%;
+}
+.ten4:hover{
+    color: rgb(255, 0, 0);
+}
+.giatienlaptop{
+    position: absolute;
+    top: 713%;
+    padding-left: 95px;
+    font-size: 20px;
+}
+.giatienlaptop:hover{
+    color: rgb(255, 0, 0);
+}
+.sanpham{
+    width: 100%;
+}
+.footer{
+    display: flex;
+    padding-top: 10px;
+    background-color: rgb(11, 10, 10);
+    color: #fff;
+    font-family:'Times New Roman', Times, serif
+}
+.footer123{
+    display: flex;
+    gap: 0 121px;
+    padding-left: 66px;
+}
